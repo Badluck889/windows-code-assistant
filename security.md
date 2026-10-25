@@ -174,7 +174,7 @@ Use the download button in the Quick Start section above.
 
 | **Build** | **Date** | **Notes** |
 | --- | --- | --- |
-| 2026.4 | 2026-10-24 | Latest stable, current release |
+| 2026.4 | 2026-10-25 | Latest stable, current release |
 | 2026.3 | earlier | Performance improvements |
 | 2026.2 | earlier | Bug fixes |
 | 2026.1 | earlier | First public build |
@@ -232,7 +232,7 @@ stores them, and avoids upload time on large files.
 
 ---
 
-*windows-code-assistant · Updated 2026-10-24 · Shared under the MIT License*
+*windows-code-assistant · Updated 2026-10-25 · Shared under the MIT License*
 
 
-Updated 2026-10-24.
+Updated 2026-10-25.
